@@ -1,0 +1,33 @@
+*{
+  font-family:'Times New Roman';
+  
+}
+.button{
+    padding:15px;
+    margin:0px 3px;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+
+}
+.text-center{
+    text-align: center;
+}
+.container{
+   
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.text-center input{
+    border:2px solid black;
+    padding: 5px 0px;
+    margin:5px;
+    border-radius: 5px;
+    width: 13rem;
+}
+.row{
+    margin:8px 0px;
+}
